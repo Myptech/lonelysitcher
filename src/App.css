@@ -1,11 +1,8 @@
-/* Глобальные стили */
 body {
   margin: 0;
   font-family: "Arial", sans-serif;
   transition: background 0.3s, color 0.3s;
 }
-
-/* Темы */
 .light-mode {
   background: linear-gradient(to right, #ece9e6, #ffffff);
   color: #333;
